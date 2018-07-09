@@ -1,0 +1,4 @@
+[[package]]
+name = "arsenic_chess_engine"
+version = "0.3.0"
+
